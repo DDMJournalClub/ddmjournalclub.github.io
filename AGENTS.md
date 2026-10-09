@@ -1,5 +1,14 @@
 # AGENTS.md - DDMJC Jekyll Site
 
+## ⚡ SKILLS — LOAD THESE FIRST
+
+| Skill | 位置 | 何时加载 |
+|-------|------|---------|
+| **ddmjc-talk-post** | `.agents/skills/ddmjc-talk-post/SKILL.md` | 收到 `*_Speaker_Informance.docx`（投递至 `for_administrators/speaker_info/`）、要创建新一期报告 post、或需要完结上一篇报告时 |
+
+> ddmjc-talk-post：三阶段全自动流水线（① docx 解析 → ② 生成 post → ③ 完结上一篇），
+> 纯 stdlib 脚本，绝不自动 git commit/push。处理报告人信息 docx 时**必须**先读该 SKILL.md。
+
 Guidelines for AI agents working on the DDMJC (Diffusion Decision Model Journal Club) Jekyll website.
 
 ## Project Overview
@@ -203,7 +212,10 @@ plan → in-progress → done
 ### Creating a New Post
 
 **From speaker info document（推荐）**：
-当报告人提交了 `*_Speaker_Informance.md` 格式的信息文件时，从中提取以下字段：
+
+> 优先使用 `ddmjc-talk-post` skill（`.agents/skills/ddmjc-talk-post/SKILL.md`）自动完成本节全部流程；以下字段映射为其依据。
+
+当报告人提交了 `*_Speaker_Informance.md`（或 `.docx`）格式的信息文件时，从中提取以下字段：
 
 | 信息来源 | 对应 Frontmatter | 对应正文区域 |
 |----------|-----------------|-------------|
@@ -223,7 +235,7 @@ plan → in-progress → done
 
 AI agent can accept the following types of materials to create or update posts:
 
-1. **`*_Speaker_Informance.md`** — 结构化报告人信息文件，包含所有必要字段
+1. **`*_Speaker_Informance.md` / `*_Speaker_Informance.docx`** — 结构化报告人信息文件，包含所有必要字段。`.docx` 版投递至 `for_administrators/speaker_info/`，**必须走 ddmjc-talk-post skill 三阶段流水线**（见顶部 SKILLS 节：解析 → 生成 post → 完结上一篇）
 2. **图片文件** (`.png`, `.jpeg`) — 报告人照片，复制到 `/assets/images/speakers/YYYY-MM-DD_initials.png`
 3. **口头/文字描述** — 用户直接提供日期、主题、speaker 等关键信息
 4. **PDF/论文链接** — 补充 `links.paper` 和参考文献
@@ -346,3 +358,16 @@ team:
 - Jekyll docs: https://jekyllrb.com/docs/
 - GitHub Pages: https://docs.github.com/en/pages
 - Liquid docs: https://shopify.github.io/liquid/
+
+<!-- proj-tracker:begin v2 -->
+## proj-tracker（ARA trace 维护）
+
+- 本项目 action state 由 `proj-tracker` 维护，canonical 载体为本地 ARA trace：
+  - `trace/status.json` — 当前 focus / TODO / blockers（脚本读写，勿手改）
+  - `trace/decisions/Dxxx_*.md` — 重大决策记录（低频、不可变，ARA 格式）
+  - `trace/research-dag.yaml` — 决策链 DAG（nodes 列表保持在文件末尾）
+- Resume / 总结时由 trace 渲染人类可读报告（md 默认 / html 按需）；渲染产物为派生文件，勿手改。
+- **严格禁止私自 git commit / push**：Track 只写文件，提交由用户手动完成。
+- Project HEAD 权威存于中央 `project-heads.json`（head.py 读写）；`ara.yaml` 的 `head_focus` 仅为本地缓存。
+- 嵌套子项目各自的 ara.yaml / trace 由 `ara-research-structure` 处理结构，`proj-tracker` 只写对应层的 trace。
+<!-- proj-tracker:end -->
