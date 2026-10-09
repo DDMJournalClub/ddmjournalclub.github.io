@@ -1,0 +1,3 @@
+# research-dag — 决策链 DAG（proj-tracker / LLM 共同维护）
+# 约定：nodes 列表保持在文件末尾，trace.py 的 decision 命令在文件末尾追加节点。
+nodes:

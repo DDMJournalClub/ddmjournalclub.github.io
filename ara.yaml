@@ -1,0 +1,37 @@
+ara_version: 1
+project:
+  name: ddmjc-journal-club
+  domain: science-communication
+  status: active
+
+# === Governance cross-links (proj-tracker v2.0 ARA-lite) ===
+project_identity:
+  slug: project-ddmjc
+  aliases: [ddmjc, journal-club, DDMJC]
+  # proj-tracker bridge (ARA 规范要求的跨系统指针；v2.0 起卡片退役，状态载体为本地 trace)
+  tracker_card: trace/status.json
+  wiki_roots: []
+  parent_project: null
+  related_projects: [project-presentation, project-ddm-talk, project-eam-modeling]
+  # === Project HEAD cache (local pointer, mirror of project-heads.json) ===
+  head_focus: >-
+    2026-06-05 eam-package 汇报准备就绪；下一期帖子的时间与嘉宾待确认。
+
+profiles:
+  active: []
+
+relations:
+  parent: null
+  children: []
+  siblings: []
+  depends_on: []
+
+knowledge:
+  primary_wiki: null
+  reads_from: []
+  contributes_to: []
+  sync_mode: metadata_only
+  promotion: manual_confirmation
+
+layers:
+  trace: trace
