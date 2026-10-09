@@ -73,6 +73,6 @@ Evidence accumulation models are widely used to model choices and reaction times
 
 ## 所属小组
 
-**DDMJC 主页**: https://ddmjc.netlify.app
+**DDMJC 主页**: https://ddmjournalclub.github.io
 
 **DDM Bilibili 主页**: https://space.bilibili.com/3461571806235136

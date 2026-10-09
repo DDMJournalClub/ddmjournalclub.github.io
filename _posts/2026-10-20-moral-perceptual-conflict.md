@@ -69,6 +69,6 @@ While humans resemble other primates in terms of motor and perceptual abilities,
 
 ## 所属小组
 
-**DDMJC 主页**: https://ddmjournalclub.github.io/DDM_Journal_Club
+**DDMJC 主页**: https://ddmjournalclub.github.io
 
 **DDM Bilibili 主页**: https://space.bilibili.com/3461571806235136

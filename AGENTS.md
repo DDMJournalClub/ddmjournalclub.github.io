@@ -38,7 +38,7 @@ bundle exec jekyll build --environment=production
 ### GitHub Pages Deployment
 - **Automatic**: Push to `main` branch triggers GitHub Actions workflow (`.github/workflows/jekyll.yml`)
 - **Manual**: Use "Run workflow" in GitHub Actions tab
-- **Build status**: Check https://github.com/DDMJournalClub/DDM_Journal_Club/actions
+- **Build status**: Check https://github.com/DDMJournalClub/ddmjournalclub.github.io/actions
 
 ### Verify Build
 ```bash
@@ -340,7 +340,7 @@ team:
 5. Build passes in GitHub Actions
 
 ### Post-deployment Verification
-1. Check https://ddmjournalclub.github.io/DDM_Journal_Club/ loads
+1. Check https://ddmjournalclub.github.io/ loads
 2. Verify schedule page shows posts
 3. Test navigation links
 4. Check images load correctly

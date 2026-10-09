@@ -2,17 +2,17 @@
 
 <p align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/DDMJournalClub/DDM_Journal_Club?style=social)](https://github.com/DDMJournalClub/DDM_Journal_Club/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/DDMJournalClub/DDM_Journal_Club?style=social)](https://github.com/DDMJournalClub/DDM_Journal_Club/network)
-[![GitHub issues](https://img.shields.io/github/issues/DDMJournalClub/DDM_Journal_Club)](https://github.com/DDMJournalClub/DDM_Journal_Club/issues)
-[![Website](https://img.shields.io/website?url=https://ddmjournalclub.github.io/DDM_Journal_Club/)](https://ddmjournalclub.github.io/DDM_Journal_Club/)
+[![GitHub stars](https://img.shields.io/github/stars/DDMJournalClub/DDM_Journal_Club?style=social)](https://github.com/DDMJournalClub/ddmjournalclub.github.io/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/DDMJournalClub/DDM_Journal_Club?style=social)](https://github.com/DDMJournalClub/ddmjournalclub.github.io/network)
+[![GitHub issues](https://img.shields.io/github/issues/DDMJournalClub/DDM_Journal_Club)](https://github.com/DDMJournalClub/ddmjournalclub.github.io/issues)
+[![Website](https://img.shields.io/website?url=https://ddmjournalclub.github.io/)](https://ddmjournalclub.github.io/)
 [![License](https://img.shields.io/github/license/DDMJournalClub/DDM_Journal_Club)](LICENSE)
 
 </p>
 
 <p align="center">
 
-🌐 **[访问新网站](https://ddmjournalclub.github.io/DDM_Journal_Club/)** · 
+🌐 **[访问新网站](https://ddmjournalclub.github.io/)** · 
 📝 **[阅读英文版](README.md)** · 
 📅 **[活动日程](schedule.html)** · 
 📄 **[核心文献](papers.html)**
@@ -51,7 +51,7 @@ DDMJC (Diffusion Decision Model Journal Club) 是一个由 **漂移扩散模型 
 | 🌐 **DDMJC 主页** | [ddmjc.notion.site](https://ddmjc.notion.site/) |
 | 📺 **会议录播** | [Bilibili 空间](https://space.bilibili.com/3461571806235136) |
 | 📂 **代码仓库** | [GitHub](https://github.com/DDMJournalClub) |
-| 📖 **新网站** | [ddmjournalclub.github.io](https://ddmjournalclub.github.io/DDM_Journal_Club/) |
+| 📖 **新网站** | [ddmjournalclub.github.io](https://ddmjournalclub.github.io/) |
 
 ---
 

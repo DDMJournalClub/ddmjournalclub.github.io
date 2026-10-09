@@ -2,17 +2,17 @@
 
 <p align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/DDMJournalClub/DDM_Journal_Club?style=social)](https://github.com/DDMJournalClub/DDM_Journal_Club/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/DDMJournalClub/DDM_Journal_Club?style=social)](https://github.com/DDMJournalClub/DDM_Journal_Club/network)
-[![GitHub issues](https://img.shields.io/github/issues/DDMJournalClub/DDM_Journal_Club)](https://github.com/DDMJournalClub/DDM_Journal_Club/issues)
-[![Website](https://img.shields.io/website?url=https://ddmjournalclub.github.io/DDM_Journal_Club/)](https://ddmjournalclub.github.io/DDM_Journal_Club/)
+[![GitHub stars](https://img.shields.io/github/stars/DDMJournalClub/DDM_Journal_Club?style=social)](https://github.com/DDMJournalClub/ddmjournalclub.github.io/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/DDMJournalClub/DDM_Journal_Club?style=social)](https://github.com/DDMJournalClub/ddmjournalclub.github.io/network)
+[![GitHub issues](https://img.shields.io/github/issues/DDMJournalClub/DDM_Journal_Club)](https://github.com/DDMJournalClub/ddmjournalclub.github.io/issues)
+[![Website](https://img.shields.io/website?url=https://ddmjournalclub.github.io/)](https://ddmjournalclub.github.io/)
 [![License](https://img.shields.io/github/license/DDMJournalClub/DDM_Journal_Club)](LICENSE)
 
 </p>
 
 <p align="center">
 
-🌐 **[Visit Website](https://ddmjournalclub.github.io/DDM_Journal_Club/)** · 
+🌐 **[Visit Website](https://ddmjournalclub.github.io/)** · 
 📝 **[Read Chinese Version](README_CH.md)** · 
 📅 **[Schedule](schedule.html)** · 
 📄 **[Key Papers](papers.html)**
@@ -51,7 +51,7 @@ The event has received strong support from:
 | 🌐 **DDMJC Homepage** | [ddmjc.notion.site](https://ddmjc.notion.site/) |
 | 📺 **Conference Recordings** | [Bilibili Space](https://space.bilibili.com/3461571806235136) |
 | 📂 **Code Repository** | [GitHub](https://github.com/DDMJournalClub) |
-| 📖 **New Website** | [ddmjournalclub.github.io](https://ddmjournalclub.github.io/DDM_Journal_Club/) |
+| 📖 **New Website** | [ddmjournalclub.github.io](https://ddmjournalclub.github.io/) |
 
 ---
 
