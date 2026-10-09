@@ -5,7 +5,7 @@ speaker: "朱睿达"
 institution: "中山大学心理学系"
 host: "Wanke Pan(潘晚坷)"
 date: "2026-10-20"
-time: "20:00-21:00"
+time: "19:00-20:00"
 timezone: "北京时间 [GMT+8]"
 zoom_id: "863 0404 9478"
 language: "中文"
@@ -44,7 +44,7 @@ While humans resemble other primates in terms of motor and perceptual abilities,
 
 ## 报告时间
 
-北京时间 [GMT+8] 2026年10月20日 20:00~21:00
+北京时间 [GMT+8] 2026年10月20日 19:00-20:00
 
 **会议信息：** ZOOM 会议号：863 0404 9478
 
@@ -62,7 +62,7 @@ While humans resemble other primates in terms of motor and perceptual abilities,
 
 ## 其他
 
-- [x] 录屏（允许录制并公开）
+- [ ] 录屏（允许录制并公开）
 - [ ] 幻灯片
 
 ---
