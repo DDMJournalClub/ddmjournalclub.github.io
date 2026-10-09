@@ -15,8 +15,8 @@ tags:
   - "simulation-based inference"
   - "R package"
   - "free recall"
-recording: true
-status: in-progress
+recording: false
+status: done
 speaker_image: "/assets/images/speakers/2026-06-05_ZY_YG.png"
 links:
   paper: "https://osf.io/preprints/psyarxiv/dg7c2_v1"
@@ -66,7 +66,7 @@ Evidence accumulation models are widely used to model choices and reaction times
 
 ## 其他
 
-- [x] 录屏
+- [ ] 录屏（本场不录屏）
 - [ ] 幻灯片
 
 ---
