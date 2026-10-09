@@ -5,3 +5,5 @@ log.md
 *.lnk
 .workbuddy/
 _speaker_intake/
+.github/*
+!.github/workflows/
