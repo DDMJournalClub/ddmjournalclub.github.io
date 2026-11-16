@@ -1,5 +1,5 @@
 ---
-title: "Concurrent metacognitive evaluation is dissociable from perceptual evidence accumulation in the parietal cortex"
+title: "训练机器人方式的强化学习用于反应时行为认知建模"
 short_title: "训练机器人方式的强化学习用于反应时行为认知建模"
 speaker: "李効东"
 institution: "中国科学院神经所"
@@ -52,11 +52,13 @@ links:
 
 ---
 
-## 参考文献
+## 报告文献
 
 - Li, X., Chen, Y., Su, R., & Yang, T. (2026). Concurrent metacognitive evaluation is dissociable from perceptual evidence accumulation in the parietal cortex (p. 2026.11.01.759033). bioRxiv. https://doi.org/10.64898/2026.11.01.759033
 - Battista, A., Padoa-Schioppa, C., & Wang, X.-J. (2026). A neural circuit framework for economic choice: From building blocks of valuation to compositionality in multitasking. Neuron. https://doi.org/10.1016/j.neuron.2025.12.010
 - Wang, Y., Luo, C., Chen, P., Liu, J., Sun, W., Guo, T., Yang, K., Hu, B., Zhang, Y., & Zhao, M. (2026). Learning vision-driven reactive soccer skills for humanoid robots. Science Robotics.
+
+## Extended readings
 - Jensen, K. T., Hennequin, G., & Mattar, M. G. (2024). A recurrent network model of planning explains hippocampal replay and human behavior. Nature Neuroscience, 27(7), 1340–1348. https://doi.org/10.1038/s41593-024-01675-7
 - Jiang, M., Gu, L., Ma, M., Li, Q., Kao, J. C., & Hong, W. (2026). Neural basis of cooperative behavior in biological and artificial intelligence systems. Science, 391(6780), eadw8151. https://doi.org/10.1126/science.adw8151
 - Song, H. F., Yang, G. R., & Wang, X.-J. (2017). Reward-based training of recurrent neural networks for cognitive and value-based tasks. eLife, 6, e21492. https://doi.org/10.7554/eLife.21492
