@@ -15,7 +15,7 @@ tags:
   - "machine"
 recording: true
 status: in-progress
-speaker_image: "/assets/images/speakers/2026-11-22_LXD.png"
+speaker_image: "/assets/images/speakers/2026-11-22_LXD.jpg"
 links:
   paper: "https://doi.org/10.64898/2026.11.01.759033"
 ---
