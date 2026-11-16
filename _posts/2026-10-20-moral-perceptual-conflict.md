@@ -16,7 +16,7 @@ tags:
   - "fMRI"
   - "social brain"
 recording: true
-status: in-progress
+status: done
 speaker_image: "/assets/images/speakers/2026-10-20_zhuruida.png"
 links:
   paper: "https://doi.org/10.1371/journal.pbio.3004025"
