@@ -3,7 +3,7 @@ title: "Concurrent metacognitive evaluation is dissociable from perceptual evide
 short_title: "训练机器人方式的强化学习用于反应时行为认知建模"
 speaker: "李効东"
 institution: "中国科学院神经所"
-host: "Bo Shen(沈波)"
+host: "沈波（中国科学院心理研究所）"
 date: "2026-11-22"
 time: "10:00-11:30"
 timezone: "北京时间 [GMT+8]"
@@ -22,7 +22,7 @@ links:
 
 # 训练机器人方式的强化学习用于反应时行为认知建模
 
-主持人: Bo Shen(沈波)
+主持人: 沈波（中国科学院心理研究所）
 
 ---
 
