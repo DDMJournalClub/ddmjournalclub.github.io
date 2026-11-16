@@ -17,14 +17,7 @@ recording: true
 status: in-progress
 speaker_image: "/assets/images/speakers/2026-11-22_LXD.png"
 links:
-  paper1: "https://doi.org/10.64898/2026.11.01.759033"
-  paper2:"https://doi.org/10.1016/j.neuron.2025.12.010"
-  paper3:"https://doi.org/10.1126/scirobotics.aed1152"
-  paper4:"https://doi.org/10.1038/s41593-024-01675-7"
-  paper5:"https://doi.org/10.1126/science.adw8151"
-  paper6:"https://doi.org/10.7554/eLife.21492"
-  paper7:"https://doi.org/10.1016/j.cub.2022.08.050"
-  paper8:"https://doi.org/10.1126/sciadv.adk1256"
+  paper: "https://doi.org/10.64898/2026.11.01.759033"
 ---
 
 # 训练机器人方式的强化学习用于反应时行为认知建模
