@@ -4,7 +4,7 @@ short_title: "训练机器人方式的强化学习用于反应时行为认知建
 speaker: "李効东"
 institution: "中国科学院神经所"
 host: "沈波（中国科学院心理研究所）"
-date: "2026-11-22"
+date: "2026-11-29"
 time: "10:00-11:30"
 timezone: "北京时间 [GMT+8]"
 Tencent_id: "798-146-770"
